@@ -1,0 +1,36 @@
+.introduction_section{
+    background-color: #0B0500;
+}
+
+.introduction_section,
+.introduction_row{
+    height: 100vh;
+}
+
+.name_items{
+    background: #64b2a9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b2a9, #fb3640); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b2a9, #fb3640); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent; 
+    font-size: 8vh;
+}
+
+.dog_lover_item{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 3vh;
+}
+
+.name_container{
+    text-align: center;
+}
+
+#web_development{
+    width: 100%;
+}
+
+.col-sm-12 .name_items{
+    font-size: 6vh;
+}
